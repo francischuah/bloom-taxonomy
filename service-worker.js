@@ -1,6 +1,6 @@
-/* Bloom Taxonomy PWA v1.3 — online-first for updates; offline fallback for convenience. */
-const CACHE_NAME = 'bloom-taxonomy-v1.3';
-const OFFLINE_FILES = ['./', './index.html', './data.js?v=1.3', './manifest.webmanifest', './icon.svg'];
+/* Bloom Taxonomy PWA v1.4 — online-first for updates; offline fallback for convenience. */
+const CACHE_NAME = 'bloom-taxonomy-v1.4';
+const OFFLINE_FILES = ['./', './index.html', './data.js?v=1.4', './manifest.webmanifest', './icon.svg'];
 const BASE_PATH = new URL('./', self.registration.scope).pathname;
 
 self.addEventListener('install', event => {
