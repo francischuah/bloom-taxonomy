@@ -1,5 +1,5 @@
 {
-  "source": "Bloom’s Taxonomy Indicator v3.32 (uploaded Excel workbook)",
+  "source": "Bloom Taxonomy Indicator v3.32; master workbook table is authoritative; cross-table disagreements flagged.",
   "levels": {
     "A1": {
       "description": "Listen to others with respect. Listen for and remember the name of newly introduced people.",
@@ -530,6 +530,13 @@
       ],
       "alternateLevels": [],
       "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "comprehend",
+      "levels": [
+        "C2"
+      ],
       "needsReview": false
     },
     {
@@ -1465,6 +1472,13 @@
       ],
       "alternateLevels": [],
       "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "know",
+      "levels": [
+        "C1"
+      ],
       "needsReview": false
     },
     {
