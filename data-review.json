@@ -1,0 +1,18 @@
+{
+  "conflicts": [
+    {
+      "verb": "order",
+      "master": [
+        "A4",
+        "C5"
+      ],
+      "levelTable": [
+        "A4",
+        "C6"
+      ]
+    }
+  ],
+  "masterCount": 245,
+  "secondaryCount": 245,
+  "uniqueVerbs": 245
+}

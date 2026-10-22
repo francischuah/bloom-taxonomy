@@ -1,0 +1,2509 @@
+{
+  "source": "Bloom’s Taxonomy Indicator v3.32 (uploaded Excel workbook)",
+  "levels": {
+    "A1": {
+      "description": "Listen to others with respect. Listen for and remember the name of newly introduced people.",
+      "methods": "A1)   Reflective journals, Simulations, Case Study, PBL, Clinical tutor evaluation, Videotaped consultation, Case presentation, Portfolio, Critical incidents, Project, Log diary, Clinical experience record, Reflective case summary, Clinical tutor rating",
+      "name": "Receiving"
+    },
+    "A2": {
+      "description": "Participates in class discussions.  Gives a presentation. Questions new ideals, concepts, models, etc. in order to fully understand them. Know the safety rules and practices them.",
+      "methods": "A2)   Reflective journals, Simulations, Case Study, PBL, Clinical tutor evaluation, Videotaped consultation, Case presentation, Portfolio, Critical incidents, Project, Log diary, Clinical experience record, Reflective case summary, Clinical tutor rating",
+      "name": "Responding"
+    },
+    "A3": {
+      "description": "Demonstrates belief in the democratic process. Is sensitive towards individual and cultural differences (value diversity). Shows the ability to solve problems. Proposes a plan to social improvement and follows through with commitment. Informs management on matters that one feels strongly about.",
+      "methods": "A3)   Reflective journals, Simulations, Case Study, PBL, Clinical tutor evaluation, Videotaped consultation, Case presentation, Portfolio, Critical incidents, Project, Log diary, Clinical experience record, Reflective case summary, Clinical tutor rating",
+      "name": "Valuing"
+    },
+    "A4": {
+      "description": "Recognizes the need for balance between freedom and responsible behavior. Accepts responsibility for oneís behavior. Explains the role of systematic planning in solving problems. Accepts professional ethical standards. Creates a life plan in harmony with abilities, interests, and beliefs. Prioritizes time effectively to meet the needs of the organization, family, and self.",
+      "methods": "A4)   Reflective journals, Simulations, Case Study, PBL, Clinical tutor evaluation, Videotaped consultation, Case presentation, Portfolio, Critical incidents, Project, Log diary, Clinical experience record, Reflective case summary, Clinical tutor rating",
+      "name": "Organising"
+    },
+    "A5": {
+      "description": "Shows self-reliance when working independently. Cooperates in group activities (displays teamwork). Uses an objective approach in problem solving.  Displays a professional commitment to ethical  practice on a daily basis. Revises judgments and changes behavior in light of new evidence. Values people for what they are, not how they look.",
+      "methods": "A5)   Reflective journals, Simulations, Case Study, PBL, Clinical tutor evaluation, Videotaped consultation, Case presentation, Portfolio, Critical incidents, Project, Log diary, Clinical experience record, Reflective case summary, Clinical tutor rating",
+      "name": "Characterising"
+    },
+    "C1": {
+      "description": "",
+      "methods": "C1)   Essays, Report , Short answer questions, Reflective case summary, Videotaped consultation, Reflective journals/portfolios, Critical incident analysis, Concept mapping, Case based article, Critical appraisal",
+      "name": "Remember"
+    },
+    "C2": {
+      "description": "Understand the meaning, translation, interpolation, and interpretation of instructions and problems. State a problem in one's own words.",
+      "methods": "C2)   Essays, Report , Short answer questions, Reflective case summary, Videotaped consultation, Reflective journals/portfolios, Critical incident analysis, Concept mapping, Case based article, Critical appraisa",
+      "name": "Understand"
+    },
+    "C3": {
+      "description": "Use a concept in a new situation or unprompted use of an abstraction. Applies what was learned in the classroom into novel situations in the work place.",
+      "methods": "C3)   Essay Question, Report, Simulation, Clinical assessment, Observed long case, Problem Based Learning (PBL), Poster, Simulated patient interviews, Viva voce·C4)   Essay, Report, Critical incident analysis, Assessing Peer feedback, Critical evaluation of the literature, Critique on an issue, Reflective journal writing, Seminar presentationH\u0001P1)   Mastery performance tests, Laboratory reports, Case presentation, Case assessment , Video skill assessment, Assessment of competence in simulation, Case History exercises, Clinical tutor evaluation, Observed long case, Clinical tutor assessment, OSCE, Web-based skills, Ward rating assessment, Special clinical skills examH\u0001P2)   Mastery performance tests, Laboratory reports, Case presentation, Case assessment , Video skill assessment, Assessment of competence in simulation, Case History exercises, Clinical tutor evaluation, Observed long case, Clinical tutor assessment, OSCE, Web-based skills, Ward rating assessment, Special clinical skills ",
+      "name": "Apply"
+    },
+    "C4": {
+      "description": "Separates material or concepts into component parts so that its organizational structure may be understood. Distinguishes between facts and inferences.",
+      "methods": "",
+      "name": "Analyse"
+    },
+    "C5": {
+      "description": "Make judgments about the value of ideas or materials.",
+      "methods": "",
+      "name": "Evaluate"
+    },
+    "C6": {
+      "description": "Builds a structure or pattern from diverse elements. Put parts together to form a whole, with emphasis on creating a new meaning or structure.",
+      "methods": "",
+      "name": "Create"
+    },
+    "P1": {
+      "description": "Detects non-verbal communication cues. Estimate where a ball will land after it is thrown and then moving to the correct location to catch the ball. Adjusts heat of stove to correct temperature by smell and taste of food. Adjusts the height of the forks on a forklift by comparing where the forks are in relation to the pallet.",
+      "methods": "",
+      "name": "Perception"
+    },
+    "P2": {
+      "description": "",
+      "methods": "",
+      "name": "Set"
+    },
+    "P3": {
+      "description": "Performs a mathematical equation as demonstrated. Follows instructions to build a model. Responds hand-signals of instructor while learning to operate a forklift",
+      "methods": "",
+      "name": "Guided response"
+    },
+    "P4": {
+      "description": "Use a personal computer. Repair a leaking faucet. Drive a car.",
+      "methods": "",
+      "name": "Mechanism"
+    },
+    "P5": {
+      "description": "Maneuvers a car into a tight parallel parking spot. Operates a computer quickly and accurately. Displays competence while playing the piano.",
+      "methods": "",
+      "name": "Complex overt response"
+    },
+    "P6": {
+      "description": "Responds effectively to unexpected experiences.  Modifies instruction to meet the needs of the learners. Perform a task with a machine that it was not originally intended to do (machine is not damaged and there is no danger in performing the new task).",
+      "methods": "",
+      "name": "Adaptation"
+    },
+    "P7": {
+      "description": "Constructs a new theory. Develops a new and comprehensive training programming. Creates a new gymnastic routine.",
+      "methods": "",
+      "name": "Origination"
+    }
+  },
+  "verbs": [
+    {
+      "verb": "accept",
+      "levels": [
+        "A3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "acclaim",
+      "levels": [
+        "A2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "accommodate",
+      "levels": [
+        "A4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "account",
+      "levels": [
+        "C2",
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "act",
+      "levels": [
+        "A5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "adapt",
+      "levels": [
+        "P6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "adhere",
+      "levels": [
+        "A4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "aid",
+      "levels": [
+        "A2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "alter",
+      "levels": [
+        "A4",
+        "C2",
+        "C6",
+        "P6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "analyse",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "answer",
+      "levels": [
+        "A2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "applaud",
+      "levels": [
+        "A2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "apply",
+      "levels": [
+        "C3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "appraise",
+      "levels": [
+        "C4",
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "approve",
+      "levels": [
+        "A2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "argue",
+      "levels": [
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "arrange",
+      "levels": [
+        "A4",
+        "C6",
+        "P7"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "ascertain",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "ask",
+      "levels": [
+        "A1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "assemble",
+      "levels": [
+        "C6",
+        "P3",
+        "P4",
+        "P5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "assess",
+      "levels": [
+        "C3",
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "assist",
+      "levels": [
+        "A2",
+        "A3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "associate",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "attend",
+      "levels": [
+        "A3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "attribute",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "balance",
+      "levels": [
+        "A4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "begin",
+      "levels": [
+        "C6",
+        "P2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "break down",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "build",
+      "levels": [
+        "C3",
+        "P3",
+        "P4",
+        "P5",
+        "P7"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "calculate",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "calibrate",
+      "levels": [
+        "P3",
+        "P4",
+        "P5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "categorise",
+      "levels": [
+        "C4",
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "change",
+      "levels": [
+        "C2",
+        "C3",
+        "P6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "choose",
+      "levels": [
+        "A1",
+        "C3",
+        "C5",
+        "P1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "cite",
+      "levels": [
+        "C1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "clarify",
+      "levels": [
+        "C2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "classify",
+      "levels": [
+        "C2",
+        "C3",
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "collect",
+      "levels": [
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "combine",
+      "levels": [
+        "A4",
+        "C6",
+        "P7"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "compare",
+      "levels": [
+        "A4",
+        "C2",
+        "C4",
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "compile",
+      "levels": [
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "complete",
+      "levels": [
+        "A3",
+        "A4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "comply",
+      "levels": [
+        "A2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "comply with",
+      "levels": [
+        "A2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "compose",
+      "levels": [
+        "C6",
+        "P7"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "compute",
+      "levels": [
+        "C3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "conceive",
+      "levels": [
+        "C5",
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "conclude",
+      "levels": [
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "conform",
+      "levels": [
+        "A2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "consider",
+      "levels": [
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "construct",
+      "levels": [
+        "C3",
+        "C6",
+        "P3",
+        "P4",
+        "P5",
+        "P7"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "contrast",
+      "levels": [
+        "C2",
+        "C4",
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "convert",
+      "levels": [
+        "C2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "copy",
+      "levels": [
+        "P3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "create",
+      "levels": [
+        "C6",
+        "P7"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "criticise",
+      "levels": [
+        "C4",
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "critique",
+      "levels": [
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "debate",
+      "levels": [
+        "A3",
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "decide",
+      "levels": [
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "deduce",
+      "levels": [
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "defend",
+      "levels": [
+        "A4",
+        "C2",
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "define",
+      "levels": [
+        "C1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "demonstrate",
+      "levels": [
+        "A3",
+        "C3",
+        "P5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "deny",
+      "levels": [
+        "A3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "depict",
+      "levels": [
+        "C2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "derive",
+      "levels": [
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "describe",
+      "levels": [
+        "A1",
+        "C1",
+        "C2",
+        "C5",
+        "P1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "design",
+      "levels": [
+        "C6",
+        "P7"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "designate",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "detect",
+      "levels": [
+        "P1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "determine",
+      "levels": [
+        "C4",
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "develop",
+      "levels": [
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "devise",
+      "levels": [
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "diagnose",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "diagram",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "differentiate",
+      "levels": [
+        "A3",
+        "C4",
+        "P1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "direct",
+      "levels": [
+        "C3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "discover",
+      "levels": [
+        "C2",
+        "C3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "discriminate",
+      "levels": [
+        "A5",
+        "C4",
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "discuss",
+      "levels": [
+        "A2",
+        "C2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "dismantle",
+      "levels": [
+        "P3",
+        "P4",
+        "P5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "display",
+      "levels": [
+        "A5",
+        "P2",
+        "P3",
+        "P4",
+        "P5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "dissect",
+      "levels": [
+        "C4",
+        "P3",
+        "P4",
+        "P5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "distinguish",
+      "levels": [
+        "C2",
+        "C4",
+        "P1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "distinguish between",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "divide",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "dramatise",
+      "levels": [
+        "C3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "elaborate",
+      "levels": [
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "employ",
+      "levels": [
+        "C3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "engender",
+      "levels": [
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "enlarge",
+      "levels": [
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "erect",
+      "levels": [
+        "A1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "estimate",
+      "levels": [
+        "C2",
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "evaluate",
+      "levels": [
+        "C4",
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "evidence",
+      "levels": [
+        "C3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "examine",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "exemplify",
+      "levels": [
+        "C2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "expand",
+      "levels": [
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "experiment",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "explain",
+      "levels": [
+        "A3",
+        "A4",
+        "C2",
+        "C5",
+        "C6",
+        "P2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "express",
+      "levels": [
+        "C2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "extend",
+      "levels": [
+        "C2",
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "extract",
+      "levels": [
+        "C1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "fasten",
+      "levels": [
+        "P3",
+        "P4",
+        "P5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "find",
+      "levels": [
+        "C1",
+        "C2",
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "fix",
+      "levels": [
+        "P3",
+        "P4",
+        "P5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "follow",
+      "levels": [
+        "A1",
+        "A3",
+        "P3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "form",
+      "levels": [
+        "A2",
+        "A3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "formulate",
+      "levels": [
+        "A4",
+        "C2",
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "generalise",
+      "levels": [
+        "A4",
+        "C2",
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "generate",
+      "levels": [
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "give",
+      "levels": [
+        "A1",
+        "C2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "give examples",
+      "levels": [
+        "C2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "greet",
+      "levels": [
+        "A2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "grind",
+      "levels": [
+        "P3",
+        "P4",
+        "P5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "heat",
+      "levels": [
+        "P3",
+        "P4",
+        "P5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "help",
+      "levels": [
+        "A2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "hold",
+      "levels": [
+        "A1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "hypothesis",
+      "levels": [
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "identify",
+      "levels": [
+        "A1",
+        "A4",
+        "C1",
+        "C4",
+        "P1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "illustrate",
+      "levels": [
+        "C2",
+        "C3",
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "illustrate how",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "image",
+      "levels": [
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "increase",
+      "levels": [
+        "A3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "indicate",
+      "levels": [
+        "C2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "infer",
+      "levels": [
+        "C2",
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "influence",
+      "levels": [
+        "A5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "initiate",
+      "levels": [
+        "A3",
+        "C6",
+        "P7"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "inquire",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "inspect",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "integrate",
+      "levels": [
+        "A4",
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "interpret",
+      "levels": [
+        "A5",
+        "C2",
+        "C3",
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "invent",
+      "levels": [
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "invert",
+      "levels": [
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "investigate",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "invite",
+      "levels": [
+        "A3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "isolate",
+      "levels": [
+        "P1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "join",
+      "levels": [
+        "A3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "judge",
+      "levels": [
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "justify",
+      "levels": [
+        "A3",
+        "C2",
+        "C4",
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "label",
+      "levels": [
+        "A2",
+        "C1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "list",
+      "levels": [
+        "C1",
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "listen",
+      "levels": [
+        "A3",
+        "A5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "locate",
+      "levels": [
+        "A1",
+        "C1",
+        "C2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "maintain objectivity",
+      "levels": [
+        "A5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "make",
+      "levels": [
+        "C3",
+        "P7"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "manage",
+      "levels": [
+        "C2",
+        "C3",
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "manifest",
+      "levels": [
+        "C3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "manipulate",
+      "levels": [
+        "C3",
+        "P3",
+        "P4",
+        "P5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "match",
+      "levels": [
+        "C1",
+        "C2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "measure",
+      "levels": [
+        "C1",
+        "C5",
+        "P3",
+        "P4",
+        "P5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "memorise",
+      "levels": [
+        "C1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "mend",
+      "levels": [
+        "P3",
+        "P4",
+        "P5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "mix",
+      "levels": [
+        "P3",
+        "P4",
+        "P5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "modify",
+      "levels": [
+        "A4",
+        "A5",
+        "C3",
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "move",
+      "levels": [
+        "P2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "name",
+      "levels": [
+        "A1",
+        "C1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "operate",
+      "levels": [
+        "C3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "order",
+      "levels": [
+        "A4",
+        "C5"
+      ],
+      "alternateLevels": [
+        "C6"
+      ],
+      "source": "master",
+      "needsReview": true
+    },
+    {
+      "verb": "organise",
+      "levels": [
+        "A4",
+        "C1",
+        "C6",
+        "P4",
+        "P5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "originate",
+      "levels": [
+        "C6",
+        "P7"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "outline",
+      "levels": [
+        "C1",
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "paint",
+      "levels": [
+        "C3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "paraphrase",
+      "levels": [
+        "C2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "pattern",
+      "levels": [
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "perform",
+      "levels": [
+        "A2",
+        "A5",
+        "C2",
+        "P3",
+        "P4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "plan",
+      "levels": [
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "point out",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "point to",
+      "levels": [
+        "A1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "pose",
+      "levels": [
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "practice",
+      "levels": [
+        "A2",
+        "A5",
+        "C3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "predict",
+      "levels": [
+        "C2",
+        "C3",
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "prepare",
+      "levels": [
+        "A4",
+        "C3",
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "present",
+      "levels": [
+        "A2",
+        "C1",
+        "C2",
+        "C3",
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "probe",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "proceed",
+      "levels": [
+        "P2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "produce",
+      "levels": [
+        "C3",
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "project",
+      "levels": [
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "pronounce",
+      "levels": [
+        "C1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "propose",
+      "levels": [
+        "A3",
+        "A5",
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "protest",
+      "levels": [
+        "A3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "qualifies",
+      "levels": [
+        "A5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "question",
+      "levels": [
+        "A5",
+        "C4",
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "quote",
+      "levels": [
+        "C1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "rate",
+      "levels": [
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "react",
+      "levels": [
+        "P2",
+        "P3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "read",
+      "levels": [
+        "A2",
+        "A3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "rearrange",
+      "levels": [
+        "C6",
+        "P6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "recall",
+      "levels": [
+        "C1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "recite",
+      "levels": [
+        "A2",
+        "C1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "recognise",
+      "levels": [
+        "C1",
+        "C2",
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "recommend",
+      "levels": [
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "reconstruct",
+      "levels": [
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "record",
+      "levels": [
+        "C1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "recount",
+      "levels": [
+        "C1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "reduce",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "relate",
+      "levels": [
+        "A4",
+        "C1",
+        "C2",
+        "C4",
+        "C6",
+        "P1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "relinquish",
+      "levels": [
+        "A3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "reorganise",
+      "levels": [
+        "C6",
+        "P6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "rephrase",
+      "levels": [
+        "C2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "reply",
+      "levels": [
+        "A1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "report",
+      "levels": [
+        "A2",
+        "A3",
+        "C2",
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "represent",
+      "levels": [
+        "C2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "reproduce",
+      "levels": [
+        "C1",
+        "P3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "resolve",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "respect",
+      "levels": [
+        "A5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "respond",
+      "levels": [
+        "P2",
+        "P3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "restate",
+      "levels": [
+        "C2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "review",
+      "levels": [
+        "C2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "revise",
+      "levels": [
+        "A5",
+        "C5",
+        "C6",
+        "P6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "reword",
+      "levels": [
+        "C2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "rewrite",
+      "levels": [
+        "C2",
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "role-play",
+      "levels": [
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "schedule",
+      "levels": [
+        "C3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "score",
+      "levels": [
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "select",
+      "levels": [
+        "A1",
+        "A2",
+        "A3",
+        "C1",
+        "C4",
+        "P1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "separate",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "serve",
+      "levels": [
+        "A5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "share",
+      "levels": [
+        "A3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "show",
+      "levels": [
+        "C3",
+        "P2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "sit",
+      "levels": [
+        "A1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "sketch",
+      "levels": [
+        "C3",
+        "P4",
+        "P5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "solve",
+      "levels": [
+        "A5",
+        "C3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "state",
+      "levels": [
+        "C1",
+        "P2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "study",
+      "levels": [
+        "A3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "subdivide",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "summarise",
+      "levels": [
+        "C2",
+        "C5",
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "support",
+      "levels": [
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "survey",
+      "levels": [
+        "C4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "synthesise",
+      "levels": [
+        "A4"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "tell",
+      "levels": [
+        "A2",
+        "C1",
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "theorise",
+      "levels": [
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "trace",
+      "levels": [
+        "P3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "transform",
+      "levels": [
+        "C2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "translate",
+      "levels": [
+        "C2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "underline",
+      "levels": [
+        "C1"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "use",
+      "levels": [
+        "A1",
+        "C3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "use evidence",
+      "levels": [
+        "A5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "utilise",
+      "levels": [
+        "C3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "value",
+      "levels": [
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "vary",
+      "levels": [
+        "C2",
+        "P6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "volunteer",
+      "levels": [
+        "A2",
+        "P2"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "weigh",
+      "levels": [
+        "C5"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "work",
+      "levels": [
+        "A3"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    },
+    {
+      "verb": "write",
+      "levels": [
+        "A2",
+        "C1",
+        "C6"
+      ],
+      "alternateLevels": [],
+      "source": "master",
+      "needsReview": false
+    }
+  ],
+  "methodology": "Primary mappings from Sheet1; alternative table cross-checked against Sheet4; discrepancies flagged; no AI evaluation."
+}
